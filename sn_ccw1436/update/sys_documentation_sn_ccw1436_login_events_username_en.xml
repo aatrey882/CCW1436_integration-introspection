@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="username" label="Username" language="en" table="sn_ccw1436_login_events">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>username</element>
+            <help/>
+            <hint/>
+            <label>Username</label>
+            <language>en</language>
+            <name>sn_ccw1436_login_events</name>
+            <plural>Usernames</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-27 21:05:28</sys_created_on>
+            <sys_id>eb2c3a79537300108b45ddeeff7b12c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Username</sys_name>
+            <sys_package display_value="CCW1436" source="sn_ccw1436">233b32b1537300108b45ddeeff7b123c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CCW1436">233b32b1537300108b45ddeeff7b123c</sys_scope>
+            <sys_update_name>sys_documentation_sn_ccw1436_login_events_username_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-27 21:05:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

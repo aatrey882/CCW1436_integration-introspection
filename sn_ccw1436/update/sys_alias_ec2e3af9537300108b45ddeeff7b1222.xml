@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>sn_ccw1436.CCW1436_Alias</id>
+        <multiple_connections>false</multiple_connections>
+        <name>CCW1436_Alias</name>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-27 21:14:14</sys_created_on>
+        <sys_id>ec2e3af9537300108b45ddeeff7b1222</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_ccw1436.CCW1436_Alias</sys_name>
+        <sys_package display_value="CCW1436" source="sn_ccw1436">233b32b1537300108b45ddeeff7b123c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW1436">233b32b1537300108b45ddeeff7b123c</sys_scope>
+        <sys_update_name>sys_alias_ec2e3af9537300108b45ddeeff7b1222</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-27 21:14:14</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Archive" max_length="40" name="sn_ccw1436_archive" sizeclass="0" type="collection">
+        <element label="Payload" max_length="8000" name="payload" type="string"/>
+        <element label="Primary Key" max_length="128" name="primary_key" type="string"/>
+        <element label="Secondary Key" max_length="128" name="secondary_key" type="string"/>
+        <element label="Timestamp" max_length="40" name="timestamp" type="glide_date_time"/>
+    </element>
+</database>

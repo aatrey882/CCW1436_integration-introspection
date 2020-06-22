@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Approval Requests" max_length="40" name="sn_ccw1436_approval_requests" sizeclass="4" type="collection">
+        <element label="Department Name" max_length="128" name="department_name" type="string"/>
+        <element label="Due Date" max_length="40" name="due_date" type="glide_date_time"/>
+        <element label="Manager" max_length="128" name="manager" type="string"/>
+        <element label="Reason" max_length="2000" name="reason" type="string"/>
+        <element label="Requester" max_length="128" name="requester" type="string"/>
+    </element>
+</database>
